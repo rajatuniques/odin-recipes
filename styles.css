@@ -20,6 +20,11 @@
     font-family: Geneva, Verdana, sans-serif;
 }
 
+.pic {
+    height: auto;
+    width: 250px;
+}
+
 .recipe-head.subhead {
     text-align: left;
 }
