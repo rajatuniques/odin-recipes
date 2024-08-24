@@ -1,0 +1,17 @@
+.page {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    background-color: rgb(246, 255, 170);
+}
+
+.heading {
+    color: hsl(0, 74%, 55%);
+    text-align: center;
+    font-family: Brush Script MT ,cursive;
+}
+
+.links {
+    text-align: center;
+    font-weight: 600;
+    color: #75ca8e
+}
