@@ -34,3 +34,10 @@
     font-weight: 600;
     color: #e2c904
 }
+
+.desc,
+ul,
+ol{
+    font-family: Copperplate, Papyrus, fantasy;
+    color: rgb(111, 53, 49);
+}
