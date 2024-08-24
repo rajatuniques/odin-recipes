@@ -4,14 +4,28 @@
     background-color: rgb(246, 255, 170);
 }
 
+.recipe {
+    font-size: 16px;
+}
+
 .heading {
     color: hsl(0, 74%, 55%);
     text-align: center;
     font-family: Brush Script MT ,cursive;
 }
 
+.recipe-head {
+    text-align: center;
+    color: #F48974;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.recipe-head.subhead {
+    text-align: left;
+}
+
 .links {
     text-align: center;
     font-weight: 600;
-    color: #75ca8e
+    color: #e2c904
 }
