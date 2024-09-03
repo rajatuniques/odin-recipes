@@ -17,7 +17,7 @@
     font-family: Brush Script MT ,cursive;
     width: 700px;
     text-align: center;
-    margin: 100px auto 32px;
+    margin: 100px auto 8px;
     border: 7px dotted rgb(255, 111, 109);
     padding: 8px 30px;
     background-color: rgb(255, 240, 166);
@@ -45,18 +45,18 @@
     color: #e0a501;
     border: 8px dashed rgb(255, 111, 109);
     
-    padding: 100px 70px;
+    padding: 30px 70px;
     width: 960px;
     margin: 90px auto;
     background-color: #fff0a6;
 }
 
 .li-1 {
-    margin-bottom: 56px;
+    margin-bottom: 28px;
 }
 
 .li-3 {
-    margin-top: 56px;
+    margin-top: 28px;
 }
 
 .hitbox {
