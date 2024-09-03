@@ -17,7 +17,7 @@
     font-family: Brush Script MT ,cursive;
     width: 700px;
     text-align: center;
-    margin: 100px auto 8px;
+    margin: 50px auto 8px;
     border: 7px dotted rgb(255, 111, 109);
     padding: 8px 30px;
     background-color: rgb(255, 240, 166);
@@ -47,7 +47,7 @@
     
     padding: 30px 70px;
     width: 960px;
-    margin: 90px auto;
+    margin: 60px auto;
     background-color: #fff0a6;
 }
 
